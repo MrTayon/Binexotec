@@ -1,2 +1,7 @@
 # Binexotec
-Conversor básica de bin,hex,oct,dec y operaciones logicas
+Conversor básica entre:
+  -BIN
+  -HEX
+  -OCT
+  -DEC
+con operaciones logicas.
