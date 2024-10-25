@@ -9,6 +9,8 @@
 
 Además, el programa incluye operaciones lógicas.
 
+![Captura de pantalla de Binexotec](image.png)
+
 ## Instalación
 
 Solo se requiere descargar y ejecutar el archivo con extencion .pyw
