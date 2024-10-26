@@ -9,15 +9,18 @@
 
 Además, el programa incluye operaciones lógicas.
 
-![Captura de pantalla de Binexotec](image.png)
+![Captura de pantalla de Binexotec](new_image.png)
 
 ## Instalación
 
-Solo se requiere descargar y ejecutar el archivo con extencion .pyw
-se ejecutara sin consola de commando.
+Se requiere descargar front_end.py,back_end,py binexotec.pyw
 
-se requiere la version de python 3.10 +
+Se requiere la version de python 3.10 + y Tkinter (libreria nativa de python)
 
+## Start
+
+Ejecutar el archivo con extencion .pyw
+Se ejecutara sin consola de commando.
 
 ## Licencia
 
