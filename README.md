@@ -25,3 +25,7 @@ Se ejecutara sin consola de commando.
 ## Licencia
 
 Este proyecto está licenciado bajo la [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
+
+## in building
+
+Solo funciona solo  el conversor, aun esta en desarrollo la parte logica
